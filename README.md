@@ -2,50 +2,47 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+    Olá e bem-vindos ao " TecMed: Tecnologia e Saúde, futuro da Medicina", o podcast que explora a fascinante interseção entre inovação tecnológica e avanços médicos. Eu sou Caio César, seu anfitrião, e estou aqui para guiá-los através das mais recentes tendências e descobertas que estão transformando a maneira como cuidamos da nossa saúde.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+Objetivos do Podcast:
+Educar e Informar
+Inspirar Profissionais e Entusiastas
+Promover a Acessibilidade ao Conhecimento
+Fomentar Discussões Éticas e Regulamentares
+Destacar Casos de Sucesso e Estudos de Caso
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, Ideogram, Studio D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Planejamento e Roteiro (ChatGPT):
+
+Use o ChatGPT para gerar ideias de temas, estruturar episódios e escrever roteiros detalhados.
+Defina objetivos do podcast e tópicos principais a serem abordados.
+Identidade Visual (Ideogram):
+
+Utilize o Ideogram para criar a identidade visual do podcast, incluindo logotipo, capa dos episódios e outros materiais gráficos.
+Desenvolva uma estética coerente e atraente para o público-alvo.
+Produção de Conteúdo (Studio D-ID):
+
+Grave os episódios utilizando Studio D-ID para gerar narrações de alta qualidade.
+Adicione elementos visuais e gráficos aos episódios, se necessário, para versões em vídeo do podcast.
+Edição e Finalização:
+
+Edite os episódios para garantir qualidade de som e coesão do conteúdo.
+Incorpore trilhas sonoras, efeitos sonoros e outros elementos de áudio.
+Publicação e Divulgação:
+
+Publique os episódios em plataformas de podcast e redes sociais.
+Utilize a identidade visual criada com Ideogram para promover os episódios.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Ep. 01 - TECMED](https://github.com/caioc193/prompts-for-podcast-generate-by-ia/commit/020e25488bb13a39ca0669a7637d26d443aea39a#diff-815480f4476a55e77dc13d0f1b63453444ac1a33bacd91bc92791d2c62cfd1c5)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A interseção entre tecnologia e saúde é vital. Estamos testemunhando uma revolução nos cuidados médicos, com inovações que promovem diagnósticos precisos, tratamentos personalizados e acessibilidade. Discutir essas mudanças é crucial para educar, inspirar e enfrentar desafios éticos. Este podcast é uma janela para o futuro da medicina, moldado pela inovação tecnológica.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
